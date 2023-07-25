@@ -1,0 +1,126 @@
+.head {
+    font-size: 80px;
+    align-self: center;
+  }
+  .date-con {
+    display: flex;
+    justify-content: space-around;
+  }
+  .date-and-place {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .whole {
+    background-image: url('https://wallpapercave.com/wp/wp4128800.jpg');
+    background-size: cover;
+    padding: 20px;
+  }
+  .input-place-con {
+    display: flex;
+    flex-direction: column;
+  }
+  .input-place-con-date {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+  }
+  .label-text {
+    color: red;
+    font-weight: bold;
+    font-family: 'Verdana';
+  }
+  .flight-details-con {
+    background-color: rgb(231, 122, 141);
+    border: none;
+    border-radius: 10px;
+    width: 400px;
+    color: rgb(100, 41, 41);
+    padding: 10px;
+    background-image: url('https://insertface.com/fb/132/plane-flight-fly-photo-background-131669-fb.jpg');
+    background-size: cover;
+    height: 100%;
+  }
+  
+  button {
+    height: 70px;
+    width: 180px;
+    color: rgb(68, 83, 13);
+    background-color: rgb(252, 23, 23);
+    border: none;
+    padding: 7px;
+    font-size: 33px;
+    border-radius: 16px;
+    font-family: 'bree-serif';
+    margin-top: 50px;
+  }
+  
+  .searchInput-con {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .input {
+    border: 0.4px solid black;
+    border-right: 0px;
+    background-color: bisque;
+    border-radius: 9px;
+  }
+  
+  input:focus {
+    background-color: rgb(99, 92, 92);
+  }
+  label {
+    color: rgb(88, 104, 33);
+    font-family: 'monoton';
+    font-weight: bold;
+    font-size: 40px;
+  }
+  
+  li {
+    list-style: none;
+  }
+  .lab {
+    background-color: black;
+  }
+  input {
+    height: 37px;
+    width: 300px;
+    color: beige;
+    border: 0.4px solid black;
+    background-color: rgb(247, 160, 55);
+    border-radius: 3px;
+  }
+  .inputcon {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  p:hover {
+    background-color: brown;
+  }
+  
+  .data {
+    background-color: azure;
+    width: 300px;
+    overflow: hidden;
+    overflow-y: scroll;
+    align-self: center;
+    height: 80px;
+  }
+  .items {
+    font-size: 22px;
+    color: brown;
+    cursor: pointer;
+  }
+  button {
+    align-self: center;
+  }
+  .but-con {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
